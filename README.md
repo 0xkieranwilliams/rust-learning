@@ -10,28 +10,28 @@
 - [x] Introduction
 
 ## **1. Hello World**
-- [ x ] Hello World
-- [ x ] Comments
-- [ x ] Formatted print
-  - [ x ] Debug
-  - [ x ] Display
-  - [ x ] Formatting
+- [x] Hello World
+- [x] Comments
+- [x] Formatted print
+  - [x] Debug
+  - [x] Display
+  - [x] Formatting
 
 ## **2. Primitives**
-- [ x ] Literals and operators
-- [ x ] Tuples
-- [ x ] Arrays and Slices
+- [x] Literals and operators
+- [x] Tuples
+- [x] Arrays and Slices
 
 ## **3. Custom Types**
-- [ x ] Structures
-- [ x ] Enums
-- [ x ] Constants
+- [x] Structures
+- [x] Enums
+- [x] Constants
 
 ## **4. Variable Bindings**
-- [ x ] Mutability
-- [ x ] Scope and Shadowing
-- [ x ] Declare first
-- [ x ] Freezing
+- [ ] Mutability
+- [ ] Scope and Shadowing
+- [ ] Declare first
+- [ ] Freezing
 
 ## **5. Types**
 - [ ] Casting
@@ -229,4 +229,3 @@
 2. Check off items as you complete them to track your progress.
 3. Experiment with variations of each example to deepen your understanding.
 
-# rust-learning

@@ -10,6 +10,7 @@ mod custom_types_enums;
 mod custom_types_enums_use;
 mod custom_types_enums_ctype;
 mod custom_types_enums_testcase_linked_lists;
+mod types_casting;
 
 fn main() {
     // formatted_print::run();
@@ -20,5 +21,6 @@ fn main() {
     // primitives_tuples::run();
     // primitives_arrays_and_slices::run();
     // custom_types_structures::run();
-    custom_types_enums_ctype::run();
+    // custom_types_enums_ctype::run();
+    types_casting::run();
 }

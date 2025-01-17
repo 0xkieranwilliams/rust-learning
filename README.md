@@ -28,10 +28,10 @@
 - [x] Constants
 
 ## **4. Variable Bindings**
-- [ ] Mutability
-- [ ] Scope and Shadowing
-- [ ] Declare first
-- [ ] Freezing
+- [x] Mutability
+- [x] Scope and Shadowing
+- [x] Declare first
+- [x] Freezing
 
 ## **5. Types**
 - [ ] Casting

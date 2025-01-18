@@ -34,28 +34,28 @@
 - [x] Freezing
 
 ## **5. Types**
-- [ ] Casting
-- [ ] Literals
-- [ ] Inference
-- [ ] Aliasing
+- [x] Casting
+- [x] Literals
+- [x] Inference
+- [x] Aliasing
 
 ## **6. Conversion**
-- [ ] From and Into
-- [ ] TryFrom and TryInto
-- [ ] To and from Strings
+- [x] From and Into
+- [x] TryFrom and TryInto
+- [x] To and from Strings
 
 ## **7. Expressions**
-- [ ] Expressions
+- [x] Expressions
 
 ## **8. Flow of Control**
-- [ ] if/else
-- [ ] loop
-  - [ ] Nesting and labels
-  - [ ] Returning from loops
-- [ ] while
-- [ ] for and range
-- [ ] match
-  - [ ] Destructuring
+- [x] if/else
+- [x] loop
+  - [x] Nesting and labels
+  - [x] Returning from loops
+- [x] while
+- [x] for and range
+- [x] match
+  - [x] Destructuring
   - [ ] Guards
   - [ ] Binding
 - [ ] if let

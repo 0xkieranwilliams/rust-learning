@@ -11,6 +11,17 @@ mod custom_types_enums_use;
 mod custom_types_enums_ctype;
 mod custom_types_enums_testcase_linked_lists;
 mod types_casting;
+mod types_literals;
+mod types_inference;
+mod types_aliasing;
+mod conversion_from_and_into;
+mod conversion_to_and_from_strings;
+mod flow_of_control_if_else;
+mod flow_of_control_loop;
+mod flow_of_control_while;
+mod flow_of_control_for_loops;
+mod flow_of_control_match;
+mod flow_of_control_match_destructuring;
 
 fn main() {
     // formatted_print::run();
@@ -22,5 +33,16 @@ fn main() {
     // primitives_arrays_and_slices::run();
     // custom_types_structures::run();
     // custom_types_enums_ctype::run();
-    types_casting::run();
+    // types_casting::run();
+    // types_literals::run();
+    // types_inference::run();
+    // types_aliasing::run();
+    // conversion_from_and_into::run();
+    // conversion_to_and_from_strings::run();
+    // flow_of_control_if_else::run();
+    // flow_of_control_loop::run();
+    // flow_of_control_while::run();
+    // flow_of_control_for_loops::run();
+    // flow_of_control_match::run();
+    flow_of_control_match_destructuring::run();
 }

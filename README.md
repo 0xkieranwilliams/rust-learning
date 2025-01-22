@@ -56,9 +56,9 @@
 - [x] for and range
 - [x] match
   - [x] Destructuring
-  - [ ] Guards
-  - [ ] Binding
-- [ ] if let
+  - [x] Guards
+  - [x] Binding
+- [x] if let
 - [ ] let-else
 - [ ] while let
 

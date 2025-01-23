@@ -59,8 +59,8 @@
   - [x] Guards
   - [x] Binding
 - [x] if let
-- [ ] let-else
-- [ ] while let
+- [x] let-else
+- [x] while let
 
 ## **9. Functions**
 - [ ] Methods

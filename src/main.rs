@@ -24,6 +24,7 @@ mod flow_of_control_match;
 mod flow_of_control_match_destructuring;
 mod flow_of_control_if_let;
 mod flow_of_control_let_else;
+mod flow_of_control_while_let;
 
 fn main() {
     // formatted_print::run();
@@ -48,5 +49,6 @@ fn main() {
     // flow_of_control_match::run();
     // flow_of_control_match_destructuring::run();
     // flow_of_control_if_let::run();
-    flow_of_control_let_else::run();
+    // flow_of_control_let_else::run();
+    flow_of_control_while_let::run();
 }
